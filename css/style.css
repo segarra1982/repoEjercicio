@@ -23,7 +23,7 @@ aside{
 	float: left;
 	width: 470px;
 	min-height: 480px;
-	background: url(../images/aside-bg.png) center top no-repeat;
+	background: url(../images/aside-bg.png) no-repeat; background-position: 50% 40px;
 	margin: 0 0 20px 0;
 }
 
